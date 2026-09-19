@@ -1,2 +1,2 @@
-# PongWithPhaser
-a Pong game made with phaser.js
+# myPongGame
+um jogo de pong feito com o phaser
